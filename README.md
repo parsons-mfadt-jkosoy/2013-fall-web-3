@@ -6,7 +6,7 @@ MFADT Parsons, Fall 2013
 
 ### Class Discussion Forum
 
-Day to day class communication will be done via our class [https://arbitrary1.campfirenow.com/room/571893](Campfire). Please email me to request access if you haven't already. All questions about assignments, help, inspiration or whatever should go there first.
+Day to day class communication will be done via our class [https://arbitrary.campfirenow.com/room/571893](Campfire). Please email me to request access if you haven't already. All questions about assignments, help, inspiration or whatever should go there first.
 
 ### Directory Structure
 
