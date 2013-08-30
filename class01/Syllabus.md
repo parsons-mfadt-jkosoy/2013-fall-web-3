@@ -117,18 +117,14 @@ Homework submission will be done via **GitHub**.
 
 Each assignment will be worth 100 points.
 
-#### Is the assignment complete?
-**40 Points**
-
+#### Is the assignment complete? (40 points)
 - Does the code work?
 - Is the code clean?
 - Is it functional? 
 - Does it complete the requirements outlined in the assignment?
 
 
-#### Is effort put into the completion of the assignment?
-**40 Points**
-
+#### Is effort put into the completion of the assignment? (40 points)
 Like any practice you're first adopting, you will struggle with code. If you are new to programming I expect you will struggle with the criteria above.
 
 I will be looking for progress in the form of **commit history**. I want to see that you are pushing up iterations of your work.
@@ -136,15 +132,13 @@ I will be looking for progress in the form of **commit history**. I want to see 
 If you are completing the assignments easily I'll be looking for you to find ways to **push yourself** through experimentation and iteration.
 
 
-#### Are you completing the assignment in a timely fashion?
-**20 Points**
-
+#### Are you completing the assignment in a timely fashion? (20 points)
 Assignments due dates will be clearly outlined. If your commit history bears evident that you did not start working in earnest until the day before the assignment was due, you will lose these 15 points.
 
 
-#### Note
-
-Weeks with no homework assigned will be weighted appropriately.
+#### Notes
+- Weeks with no homework assigned will be weighted appropriately.
+- Midterm and Final will be worth 500 points each.
 
 -----------------------------
 
@@ -152,16 +146,12 @@ Weeks with no homework assigned will be weighted appropriately.
 
 Each week will be worth **200 points**, including the aforementioned homework. The remaining points are as follows:
 
-#### Are you showing up to class on time?
-**30 Points**
-
+#### Are you showing up to class on time? (50 points)
 If you are later than 15 minutes to class you will be marked as late and docked these points.
 
 In addition if you are late 3 times you fail the class.
 
-#### Are you participating in the class?
-**30 Points**
-
+#### Are you participating in the class? (50 points)
 These are the points most easily lost year after year. It confounds me.
 
 I understand there are different personality types - some of you are shy or less open to contribute to class discussions as often as others. However, to make this as clear as possible:
