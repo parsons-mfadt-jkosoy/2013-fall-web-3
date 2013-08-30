@@ -15,7 +15,7 @@ Syllabus Review
 
 Campfire
 --------------
-### [MFADT Web 3 Campfire](https://arbitrary.campfirenow.com/room/571893)
+### [MFADT Web 3 Campfire](https://arbitrary.campfirenow.com/a3959)
 
 I've opened the CampFire up for guest access to simplify the invite structure. While this repository is public, I'm going to kindly request the following rules:
 
