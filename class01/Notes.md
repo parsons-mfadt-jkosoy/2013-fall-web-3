@@ -82,9 +82,12 @@ Assignment
 		- Commit and push.
 		- Use GitHub to send a "Pull Request" to me.
 
------*Edits by Ritika*---------
+--------------
+
 Some more related terms to look up:
 - Elastic Layout
 - Graceful Degradation
 - Nesting
------*Edits by Ritika*---------
+
+*Edits by Ritika*
+--------------
