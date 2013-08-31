@@ -89,5 +89,5 @@ Some more related terms to look up:
 - Graceful Degradation
 - Nesting
 
-*Edits by Ritika*
+Edits by Ritika B.
 --------------
