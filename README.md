@@ -13,3 +13,5 @@ Day to day class communication will be done via our class [https://arbitrary.cam
 Each week's class will contain any relevant example files, notes or supplemental information in markdown format.
 
 You should be able to grab a program like MarkdownNote or just open the MD right off of Github.
+
+YAY WEB 3 :) Clarisa
