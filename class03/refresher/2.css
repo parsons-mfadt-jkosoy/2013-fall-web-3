@@ -1,0 +1,54 @@
+a { 1
+	background:#00ff00;
+	text-decoration: none;
+}
+
+div a {
+	
+}
+
+h1 p a {
+	background: red;
+}
+
+h1 a {
+	background: white;
+	text-decoration: underline;
+}
+
+div h1 a {
+	
+}
+
+.aClass a {
+	
+}
+
+.aClass div h1 a {
+	
+}
+
+#anId h1 a { 
+
+}
+
+#anId a {
+
+}
+
+
+#anId {
+
+}
+
+div.a {
+
+}
+
+#anId.a {
+
+}
+
+#header #logo {
+	
+}

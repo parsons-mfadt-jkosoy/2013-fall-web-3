@@ -1,0 +1,5 @@
+header h1 { background: blue; }
+
+#something { width: 48.82813%; height: 500px; background: lime; float: left; margin-left: 40px; }
+#something a { background: lime; }
+#something a:hover { text-decoration: none; }

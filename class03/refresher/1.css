@@ -1,0 +1,27 @@
+#anId .aClass {
+
+}
+
+#anId.aClass {
+
+}
+
+a.facebook-icon {
+
+}
+
+a .facebook-icon {
+
+}
+
+a,
+h1,
+.myClass {
+	background:red;
+}
+
+@media only screen and (min-width : 768px) {
+	body {
+		background: lime;
+	} 
+}

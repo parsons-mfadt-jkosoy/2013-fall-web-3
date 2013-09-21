@@ -1,0 +1,25 @@
+@import "header";
+
+@mixin left($dist) {
+  float: left;
+  margin-left: $dist;
+}
+
+$background_color:#00ff00;
+
+// finally
+#something {
+	width:((500/1024)*100%);
+	height:500px;
+	background: $background_color;
+
+	@include left(40px);
+
+	a {
+		background:lime;
+
+		&:hover {
+			text-decoration: none;
+		}
+	}
+}
