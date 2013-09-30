@@ -1,0 +1,22 @@
+a {
+	&:hover {
+
+	}
+}
+
+
+#logo h1 a {
+	&:hover {
+
+	}
+}
+
+#logo {
+	h1 {
+		a {
+			&:hover {
+				// #logo h1 a:hover 
+			}
+		}
+	}
+}

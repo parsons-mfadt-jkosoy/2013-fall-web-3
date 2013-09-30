@@ -1,0 +1,19 @@
+#logo > a {
+	background:red;
+}
+
+<div id="logo">
+	<a href="#">Foo</a> <-- this guy will be red
+
+	<p>
+		<a href="#">Bar</a> <-- this guy won't be
+	</p>
+
+</div>
+
+
+@media screen and (max-width:100px) {
+	a {
+		background:green !important; <-- worth tons of points!
+	}
+}

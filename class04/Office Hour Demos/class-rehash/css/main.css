@@ -1,0 +1,11 @@
+body {
+	background: lime;
+}
+
+.is-active {
+	background: hotpink;
+}
+
+.is-hidden {
+	display: none;
+}
