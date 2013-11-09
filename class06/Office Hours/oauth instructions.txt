@@ -1,0 +1,9 @@
+INSTALL OAUTH
+----------
+sudo apt-get install make
+sudo pecl install oauth
+sudo nano /etc/php5/apache2/php.ini 
+(add somewhere near the bottom the followling line. I put it write before Module Settings)
+extension=oauth.so
+save and quit
+sudo service apache2 restart
