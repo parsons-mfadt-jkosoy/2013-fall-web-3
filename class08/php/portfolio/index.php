@@ -1,4 +1,4 @@
-<?php include('headar.php'); ?>
+<?php include('header.php'); ?>
 
 <p>This is the home page.</p>
 
